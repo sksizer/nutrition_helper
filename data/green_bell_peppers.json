@@ -1,0 +1,25 @@
+{
+    "name": "Green Bell Peppers, raw",
+    "NDB_number": "11333",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [20, "kcal"],
+      "protein": [0.86, "grams"],
+      "total_fat": [0.17, "grams"],
+      "saturated_fat": [0.06, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [3, "mg"],
+      "carbohydrates": [4.64, "grams"],
+      "fiber": [1.7, "grams"],
+      "sugars": [2.4, "grams"],
+      "potassium": [175, "mg"],
+      "calcium": [10, "mg"],
+      "iron": [0.34, "mg"],
+      "magnesium": [10, "mg"],
+      "phosphorus": [20, "mg"],
+      "vitamin_C": [80.4, "mg"],
+      "vitamin_A": [370, "IU"],
+      "vitamin_K": [7.4, "μg"]
+    }
+  }
+  

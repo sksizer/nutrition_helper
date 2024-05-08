@@ -1,0 +1,12 @@
+{
+    "name": "Fish Oil Supplements",
+    "NDB_number": "Unknown",
+    "serving_size": [1, "capsule"],
+    "values": {
+      "calories": [10, "kcal"],
+      "total_fat": [1, "grams"],
+      "EPA (Eicosapentaenoic acid)": [0.18, "grams"],
+      "DHA (Docosahexaenoic acid)": [0.12, "grams"]
+    }
+  }
+  

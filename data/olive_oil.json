@@ -1,0 +1,25 @@
+{
+    "name": "Olive Oil",
+    "NDB_number": "04053",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [884, "kcal"],
+      "total_fat": [100, "grams"],
+      "saturated_fat": [14, "grams"],
+      "monounsaturated_fat": [73, "grams"],
+      "polyunsaturated_fat": [11, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [0, "mg"],
+      "carbohydrates": [0, "grams"],
+      "fiber": [0, "grams"],
+      "sugars": [0, "grams"],
+      "protein": [0, "grams"],
+      "vitamin_D": [0, "μg"],
+      "calcium": [0, "mg"],
+      "iron": [0.56, "mg"],
+      "potassium": [0, "mg"],
+      "vitamin_E": [14.35, "mg"],
+      "vitamin_K": [60.2, "μg"]
+    }
+  }
+  

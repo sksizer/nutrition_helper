@@ -1,0 +1,31 @@
+{
+    "name": "Red Cabbage, raw",
+    "FDC_ID": "169975",
+    "USDA_Food_Code": "11112",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [31, "kcal"],
+      "protein": [1.43, "grams"],
+      "total_fat": [0.16, "grams"],
+      "saturated_fat": [0.022, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [27, "mg"],
+      "carbohydrates": [7.37, "grams"],
+      "fiber": [2.1, "grams"],
+      "sugars": [3.83, "grams"],
+      "potassium": [243, "mg"],
+      "calcium": [45, "mg"],
+      "iron": [0.8, "mg"],
+      "magnesium": [16, "mg"],
+      "phosphorus": [30, "mg"],
+      "vitamin_A": [98, "IU"],
+      "vitamin_C": [57, "mg"],
+      "thiamin": [0.061, "mg"],
+      "riboflavin": [0.040, "mg"],
+      "niacin": [0.234, "mg"],
+      "vitamin_B6": [0.194, "mg"],
+      "folate": [19, "μg"],
+      "vitamin_K": [38.2, "μg"]
+    }
+  }
+  

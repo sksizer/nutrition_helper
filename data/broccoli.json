@@ -1,0 +1,31 @@
+{
+    "name": "Broccoli, raw",
+    "FDC_ID": "170379",
+    "USDA_Food_Code": "11090",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [34, "kcal"],
+      "protein": [2.82, "grams"],
+      "total_fat": [0.37, "grams"],
+      "saturated_fat": [0.039, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [33, "mg"],
+      "carbohydrates": [6.64, "grams"],
+      "fiber": [2.6, "grams"],
+      "sugars": [1.7, "grams"],
+      "potassium": [316, "mg"],
+      "calcium": [47, "mg"],
+      "iron": [0.73, "mg"],
+      "magnesium": [21, "mg"],
+      "phosphorus": [66, "mg"],
+      "vitamin_A": [623, "IU"],
+      "vitamin_C": [89.2, "mg"],
+      "thiamin": [0.071, "mg"],
+      "riboflavin": [0.117, "mg"],
+      "niacin": [0.639, "mg"],
+      "vitamin_B6": [0.175, "mg"],
+      "folate": [63, "μg"],
+      "vitamin_K": [101.6, "μg"]
+    }
+  }
+  

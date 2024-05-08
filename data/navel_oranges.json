@@ -1,0 +1,23 @@
+{
+    "name": "Navel Oranges",
+    "NDB_number": "9200",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [49, "kcal"],
+      "protein": [0.94, "grams"],
+      "total_fat": [0.15, "grams"],
+      "saturated_fat": [0.017, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [0, "mg"],
+      "carbohydrates": [12.54, "grams"],
+      "fiber": [2.4, "grams"],
+      "sugars": [8.5, "grams"],
+      "potassium": [181, "mg"],
+      "calcium": [40, "mg"],
+      "vitamin_C": [53.2, "mg"],
+      "folate": [30, "μg"],
+      "vitamin_A": [225, "IU"],
+      "iron": [0.1, "mg"]
+    }
+  }
+  

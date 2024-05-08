@@ -1,0 +1,27 @@
+{
+    "name": "Red Onions, raw",
+    "NDB_number": "11282",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [40, "kcal"],
+      "protein": [1.1, "grams"],
+      "total_fat": [0.1, "grams"],
+      "saturated_fat": [0.042, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [4, "mg"],
+      "carbohydrates": [9.34, "grams"],
+      "fiber": [1.7, "grams"],
+      "sugars": [4.24, "grams"],
+      "potassium": [146, "mg"],
+      "calcium": [23, "mg"],
+      "iron": [0.21, "mg"],
+      "magnesium": [10, "mg"],
+      "phosphorus": [29, "mg"],
+      "vitamin_C": [7.4, "mg"],
+      "folate": [19, "μg"],
+      "vitamin_B6": [0.12, "mg"],
+      "vitamin_A": [2, "IU"],
+      "vitamin_K": [0.4, "μg"]
+    }
+  }
+  

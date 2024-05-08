@@ -1,0 +1,24 @@
+{
+    "name": "Mixed Berries",
+    "NDB_number": "Unknown",
+    "serving_size": [140, "grams"],
+    "values": {
+      "calories": [60, "kcal"],
+      "total_fat": [0, "grams"],
+      "saturated_fat": [0, "grams"],
+      "trans_fat": [0, "grams"],
+      "polyunsaturated_fat": [0, "grams"],
+      "monounsaturated_fat": [0, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [0, "mg"],
+      "total_carbohydrate": [15, "grams"],
+      "dietary_fiber": [4, "grams"],
+      "sugars": [9, "grams"],
+      "protein": [1, "grams"],
+      "vitamin_D": [0, "μg"],
+      "calcium": [10, "mg"],
+      "iron": [1, "mg"],
+      "potassium": [125, "mg"]
+    }
+  }
+  

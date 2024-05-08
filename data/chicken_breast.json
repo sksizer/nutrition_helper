@@ -1,0 +1,25 @@
+{
+    "name": "Chicken Breast, cooked, skinless",
+    "short_name": "cooked chicken breast",
+    "FDC_ID": "170028",
+    "USDA_Food_Code": "05305",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [165, "kcal"],
+      "protein": [31, "grams"],
+      "total_fat": [3.6, "grams"],
+      "saturated_fat": [1, "gram"],
+      "cholesterol": [85, "mg"],
+      "sodium": [74, "mg"],
+      "carbohydrates": [0, "grams"],
+      "fiber": [0, "grams"],
+      "sugars": [0, "grams"],
+      "potassium": [256, "mg"],
+      "selenium": [22.8, "micrograms"],
+      "phosphorus": [205, "mg"],
+      "niacin": [13.6, "mg"],
+      "vitamin_B6": [0.6, "mg"],
+      "magnesium": [29, "mg"]
+    }
+  }
+  

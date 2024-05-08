@@ -1,0 +1,27 @@
+{
+    "name": "Cauliflower, raw",
+    "short_name": "cauliflower",
+    "FDC_ID": "170000",
+    "USDA_Food_Code": "11135",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [25, "kcal"],
+      "protein": [1.92, "grams"],
+      "total_fat": [0.28, "grams"],
+      "saturated_fat": [0.13, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [30, "mg"],
+      "carbohydrates": [4.97, "grams"],
+      "fiber": [2, "grams"],
+      "sugars": [1.91, "grams"],
+      "potassium": [299, "mg"],
+      "calcium": [22, "mg"],
+      "iron": [0.42, "mg"],
+      "magnesium": [15, "mg"],
+      "phosphorus": [44, "mg"],
+      "vitamin_C": [48.2, "mg"],
+      "vitamin_K": [15.5, "μg"],
+      "folate": [57, "μg"]
+    }
+  }
+  

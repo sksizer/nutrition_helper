@@ -1,0 +1,33 @@
+{
+    "name": "Avocado, raw, all commercial varieties",
+    "FDC_ID": "171706",
+    "USDA_Food_Code": "09038",
+    "serving_size": [100, "grams"],
+    "values": {
+      "calories": [160, "kcal"],
+      "protein": [2, "grams"],
+      "total_fat": [14.66, "grams"],
+      "saturated_fat": [2.126, "grams"],
+      "monounsaturated_fat": [9.799, "grams"],
+      "polyunsaturated_fat": [1.816, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [7, "mg"],
+      "potassium": [485, "mg"],
+      "carbohydrates": [8.53, "grams"],
+      "fiber": [6.7, "grams"],
+      "sugars": [0.66, "grams"],
+      "vitamin_C": [10, "mg"],
+      "thiamin": [0.067, "mg"],
+      "riboflavin": [0.13, "mg"],
+      "niacin": [1.738, "mg"],
+      "vitamin_B6": [0.257, "mg"],
+      "folate": [81, "μg"],
+      "vitamin_E": [2.07, "mg"],
+      "vitamin_K": [21, "μg"],
+      "calcium": [12, "mg"],
+      "iron": [0.55, "mg"],
+      "magnesium": [29, "mg"],
+      "phosphorus": [52, "mg"]
+    }
+  }
+  

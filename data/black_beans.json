@@ -1,0 +1,22 @@
+{
+    "name": "Black Beans (Canned)",
+    "NDB_number": "Unknown",
+    "serving_size": [130, "grams"],
+    "values": {
+      "calories": [120, "kcal"],
+      "total_fat": [0, "grams"],
+      "saturated_fat": [0, "grams"],
+      "trans_fat": [0, "grams"],
+      "cholesterol": [0, "mg"],
+      "sodium": [130, "mg"],
+      "total_carbohydrate": [22, "grams"],
+      "dietary_fiber": [9, "grams"],
+      "sugars": [0, "grams"],
+      "protein": [8, "grams"],
+      "vitamin_D": [0, "μg"],
+      "calcium": [50, "mg"],
+      "iron": [1.7, "mg"],
+      "potassium": [480, "mg"]
+    }
+  }
+  

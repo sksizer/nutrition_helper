@@ -1,0 +1,6 @@
+.DS_Store
+.envrc
+.vscode
+venv
+__pycache__
+

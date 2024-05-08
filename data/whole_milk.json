@@ -1,0 +1,26 @@
+{
+    "name": "Whole Milk",
+    "NDB_number": "01077",
+    "serving_size": [100, "grams"],
+    "density": [1.032, "g/ml"],
+    "values": {
+      "calories": [61, "kcal"],
+      "protein": [3.15, "grams"],
+      "total_fat": [3.25, "grams"],
+      "saturated_fat": [1.865, "grams"],
+      "cholesterol": [10, "mg"],
+      "sodium": [40, "mg"],
+      "carbohydrates": [4.8, "grams"],
+      "sugar": [5.05, "grams"],
+      "fiber": [0, "grams"],
+      "vitamin_D": [2, "IU"],
+      "calcium": [113, "mg"],
+      "potassium": [132, "mg"],
+      "magnesium": [10, "mg"],
+      "vitamin_A": [46, "IU"],
+      "vitamin_C": [0, "mg"],
+      "vitamin_B12": [0.45, "μg"],
+      "riboflavin": [0.182, "mg"]
+    }
+  }
+  
